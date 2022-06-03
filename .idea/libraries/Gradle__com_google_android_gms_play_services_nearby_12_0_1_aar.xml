@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-nearby:12.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8a2bac57d541b5c72e8dbfd75510a2dc/transformed/play-services-nearby-12.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b9ed6799578826fdf6e53b64e830c7fb/transformed/jetified-play-services-nearby-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b9ed6799578826fdf6e53b64e830c7fb/transformed/jetified-play-services-nearby-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b9ed6799578826fdf6e53b64e830c7fb/transformed/jetified-play-services-nearby-12.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
